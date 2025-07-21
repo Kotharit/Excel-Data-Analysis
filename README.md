@@ -1,8 +1,15 @@
 # 📊 Using Excel for Data Analytics
 
 Greetings, this repo contains all of the source files and projects I did in order to show my excel skills and capabilities.
+![1_Salary_Dashboard.png](/0_Resources/Images/1_Salary_Dashboard_Final_Dashboard.gif)
 
-## Table of Contents
+![2_Project_Analysis_Screenshot3.png](/0_Resources/Images/2_Project_Analysis_Screenshot3.png)
+
+![2_Project_Analysis_Screenshot3.png](/0_Resources/Images/2_Project_Analysis_Screenshot5.png)
+
+![2_Project_Analysis_Screenshot3.png](/0_Resources/Images/2_Project_Analysis_Chart1.png)
+
+## Repo - Table of Contents
 
 ### [Workbooks](/0_Resources/Problems/)
 
