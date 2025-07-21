@@ -16,7 +16,7 @@ Greetings, this repo contains all of the source files and projects I did in orde
 **Check it out [here](/Project_2-Analysis/1_Project_Analysis.xlsx)**  
 ![2_Project_Analysis_Screenshot3.png](/0_Resources/Images/2_Project_Analysis_Screenshot5.png)  
   
-**Chart for Analysis per Skill Increment**  
+**Chart for Analysis - per Skill Increment**  
 **Check it out [here](/Project_2-Analysis/1_Project_Analysis.xlsx)**  
 ![2_Project_Analysis_Screenshot3.png](/0_Resources/Images/2_Project_Analysis_Chart1.png)  
 
