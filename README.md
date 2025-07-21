@@ -22,13 +22,13 @@ Greetings, this repo contains all of the source files and projects I did in orde
 
 ### [Workbooks](/0_Resources/Problems/)
 
-### [Chapter 1: Spreadsheets_Intro](/1_Spreadsheets_Intro/)
+### [Folder 1: Spreadsheets_Intro](/1_Spreadsheets_Intro/)
 - Worksheets
 - Workbooks
 - Ribbon
 - Menu
 - Keyboard Shortcuts
-### [Chapter 2: Formulas & Functions](/2_Formulas_Functions/)
+### [Folder 2: Formulas & Functions](/2_Formulas_Functions/)
 - Formulas
 - Functions
 - Logical Functions
@@ -37,34 +37,34 @@ Greetings, this repo contains all of the source files and projects I did in orde
 - Lookup Functions
 - Math Functions
 - Statistical Functions
-### [Chapter 3: Charts](/3_Charts_Graphs/)
+### [Folder 3: Charts](/3_Charts_Graphs/)
 - Chart Types
 - Chart Elements
 - Chart Styles
 - Chart Axes
 - Chart Layouts
 - Chart Templates
-### [Chapter 4: Spreadsheets Advanced](/4_Spreadsheets_Advanced/)
+### [Folder 4: Spreadsheets Advanced](/4_Spreadsheets_Advanced/)
 - Tables
 - Conditional Formatting
 - Formatting
 - Collaboration
-### [Chapter 5: Pivot Tables](/5_Pivot_Tables/)
+### [Folder 5: Pivot Tables](/5_Pivot_Tables/)
 - Pivot Tables
 - Pivot Charts
 - Pivot Tables Advanced
-### [Chapter 6: Advanced Data Analysis](/6_Advanced_Data_Analysis/)
+### [Folder 6: Advanced Data Analysis](/6_Advanced_Data_Analysis/)
 - Analysis Add-ins
 - Solver
 - Scenario Manager
 - Goal Seek
 - Data Tables
-### [Chapter 7: Power Query](/7_Power_Query/)
+### [Folder 7: Power Query](/7_Power_Query/)
 - Power Query
 - Power Query Editor
 - Power Query M Language
 - Power Query Advanced
-### [Chapter 8: Power Pivot](/8_Power_Pivot/)
+### [Folder 8: Power Pivot](/8_Power_Pivot/)
 - Power Pivot
 - Power Pivot DAX
 - Power Pivot Data Models
