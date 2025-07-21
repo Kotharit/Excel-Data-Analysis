@@ -2,20 +2,20 @@
 
 Greetings, this repo contains all of the source files and projects I did in order to show my excel skills and capabilities.  
 
-![1_Salary_Dashboard.png](/0_Resources/Images/1_Salary_Dashboard_Final_Dashboard.gif)
-Check it out [here](/Project_1-Dashboard/1_Salary_Dashboard.xlsx)
+![1_Salary_Dashboard.png](/0_Resources/Images/1_Salary_Dashboard_Final_Dashboard.gif)  
+**Check it out [here](/Project_1-Dashboard/1_Salary_Dashboard.xlsx)**
 
 
-![2_Project_Analysis_Screenshot3.png](/0_Resources/Images/2_Project_Analysis_Screenshot3.png)
-Check it out [here](/Project_2-Analysis/1_Project_Analysis.xlsx)
+![2_Project_Analysis_Screenshot3.png](/0_Resources/Images/2_Project_Analysis_Screenshot3.png)  
+**Check it out [here](/Project_2-Analysis/1_Project_Analysis.xlsx)**
 
 
-![2_Project_Analysis_Screenshot3.png](/0_Resources/Images/2_Project_Analysis_Screenshot5.png)
-Check it out [here](/Project_2-Analysis/1_Project_Analysis.xlsx)
+![2_Project_Analysis_Screenshot3.png](/0_Resources/Images/2_Project_Analysis_Screenshot5.png)  
+**Check it out [here](/Project_2-Analysis/1_Project_Analysis.xlsx)**
 
 
-![2_Project_Analysis_Screenshot3.png](/0_Resources/Images/2_Project_Analysis_Chart1.png)
-Check it out [here](/Project_2-Analysis/1_Project_Analysis.xlsx)
+![2_Project_Analysis_Screenshot3.png](/0_Resources/Images/2_Project_Analysis_Chart1.png)  
+**Check it out [here](/Project_2-Analysis/1_Project_Analysis.xlsx)**
 
 
 ## Repo - Table of Contents
